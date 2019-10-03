@@ -1,0 +1,152 @@
+Double stack any large Pizza
+Ksh150
+Add 150 to double stack any  large pizza.
+
+ 
+Extra Vegetable Toppings
+Ksh50-Regular 100-Medium 150-large Mega-200
+Tomato, Onion,Mushroom,Green Pepper, Red Pepper, Olives, Pineapple, Sweetcorn, Jalapeno Chilli
+
+ 
+Extra Meat Toppings
+Ksh100-Regular 150-Medium 200-large Mega-250
+Meat Toppings:
+
+Beef pepperoni, sandwich beef, Macon, Mince, Marinated BBQ Steak, BBQ chicken,Spicy Per-peri Chicken, Chicken
+
+ 
+Lil peppi’s Pizza with a free squishy juice
+Ksh300
+Get a free squishy juice for every lil Peppi’s pizza.
+
+With one topping
+
+ 
+500ml PET
+Kshksh. 110
+500ML PET
+
+ 
+Pizza Pie
+Ksh200
+Turn your favorite pizza into a pie
+
+ 
+Twisty Bread
+Ksh150
+crispy cheese sticks with sweet chilli sauce
+
+ 
+6 BBQ Wings
+Ksh350
+6 Sticky BBQ Wings
+
+ 
+Spicy Boerewors
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+100% beef mince-fresh onion -Green pepper-jalapeno chilli
+
+ 
+Roast Veg &Feta
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+Fresh red & green peppers-olives feta cheese-mushroom
+
+ 
+Veg Feast
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+Sweetcorn-green pepper- chilli -onion
+
+ 
+Beef Pepperoni plus
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+Double beef pepperoni-mushroom-Fresh Onion
+
+ 
+Chicken & Beef pepperoni
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+Succulent bbq chicken-beef pepperoni mushroom-green pepper
+
+ 
+Chicken Macon BBQ
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+Succulent bbq chicken-macon, sweetcorn-onion
+
+ 
+Meat Deluxe
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+Beef pepperoni-bbq steak-macon-sandwich beef
+
+ 
+Cheese Burger
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+Succulent bbq chicken -pineapple
+
+ 
+Chicken Hawaiian
+KshRegular:550 Medium:800 Large:1000 Mega:1200
+succulent bbq chicken-pineapple
+
+ 
+Veg Tikka
+KshRegular:500 Medium:750 Large:950 Mega:1150
+Sweetcorn-red &green pepper-mushroom onion-jalapenos-tikka sauce
+
+ 
+Chicken Tikka
+KshRegular:500 Medium:750 Large:950 Mega:1150
+Marinated tikka chicken -green pepper-onion
+
+ 
+Peri-Peri Chicken
+KshRegular:500 Medium:750 Large:950 Mega:1150
+Spicy peri-peri chicken
+
+ 
+BBQ Steak
+KshRegular:500 Medium:750 Large:950 Mega:1150
+Marinated BBq steak
+
+ 
+Boerewors
+KshRegular:500 Medium:750 Large:950 Mega:1150
+100% beef mince-fresh tomato-fresh onion
+
+ 
+Hawaiian
+KshRegular:500 Medium:750 Large:950 Mega:1150
+Macon-pineapple
+
+ 
+Chicken and Mushroom
+KshRegular:500 Medium:750 Large:950 Mega:1150
+Succulent bbq chicken -Mushroom-creamy mayo
+
+ 
+Regina Pizza
+KshRegular:500 Medium:750 Large:950 Mega:1150
+sandwich beef-Mushroom
+
+
+
+TOPPINGS:
+Pepperoni
+Mushrooms
+Onions
+Sausage
+Bacon
+Extra cheese
+Black olives
+Green peppers
+Pineapple
+Spinach
+
+
+order:
+ <div class="container">
+        <div class="checkout-order" id="order-checkout">
+            <button type="button" class="btn btn-dark btn-order" id="btn-order_list">View Orders</button>
+            <button type="button" class="btn btn-dark btn-refresh" id="btn-pay" disabled>Proceed To Pay</button>
+            <button type="button" class="btn btn-dark btn-refresh" id="btn-clear_order_list" disabled>Cancel
+                Orders</button>
+
+        </div>
