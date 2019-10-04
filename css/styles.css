@@ -1,0 +1,20 @@
+
+.navbar{
+    background-color: yellow;
+}
+ul li{
+    list-style: none;
+    display: inline-block;
+    float: right;
+    margin: 50px;
+    te
+}
+.container .img{
+    float: left;
+}
+h1{
+    text-align: center;
+}
+h5{
+    text-align: center;
+}
