@@ -37,6 +37,16 @@ form {
 .social-icons {
   float: right;
 }
+.row-1 {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 280px 280px 280px 280px;
+    grid-gap: 50px;
+    padding: 10px;
+}
+.footer{
+    background-color: yellow;
+}
 .row1 {
   display: grid;
   justify-content: center;
@@ -75,4 +85,12 @@ h2{
 }
 .footer{
     text-align: center;
+}
+.services{
+    text-align: center;
+}
+.button1:hover{
+    pointer-events: painted;
+    background-color:lightseagreen;
+
 }
