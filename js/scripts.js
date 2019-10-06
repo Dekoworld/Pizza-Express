@@ -1,3 +1,4 @@
+alert("Download App");
 //BUSINESS LOGIC
 var inputtedSize;
 var inputtedTopping;
