@@ -56,3 +56,13 @@ form {
 .pic4:hover {
   opacity: 0.4;
 }
+h5{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    text-justify: auto;
+}
+.footer{
+    text-align: center;
+}
