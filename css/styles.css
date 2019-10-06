@@ -41,9 +41,19 @@ form {
   display: grid;
   justify-content: center;
   grid-template-columns: 280px 280px 280px 280px;
-  grid-gap: 10px;
+  grid-gap: 50px;
   padding: 10px;
+  align-content: center;
+  margin-left: 300px;
 }
+.row2 {
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 280px 280px 280px 280px;
+    grid-gap: 50px;
+    padding: 10px;
+    margin-left: 300px;
+  }
 .pic1:hover {
   opacity: 0.4;
 }
