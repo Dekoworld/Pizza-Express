@@ -1,12 +1,13 @@
 .navbar{
-    background-color: yellow;
+    background-image: url("../img/blurbg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 ul li{
     list-style: none;
     display: inline-block;
     float: right;
     margin: 50px;
-    te
 }
 .container .img{
     float: left;
@@ -19,4 +20,7 @@ h5{
 }
 form{
     text-align: center;
+}
+.row {
+    justify-content: center;
 }
