@@ -1,8 +1,13 @@
 ###PIZZA EXPRESS
+<<<<<<< HEAD
 
 ##AUTHOR
 Derrick Karitu
 
+=======
+##AUTHOR
+Derrick Karitu
+>>>>>>> ec53711a2288c9a25f6b0f0579508211604c6e89
 #Description
 This is a website for Pizza Express,home of the best pizza in Nairobi County.
 

@@ -95,25 +95,24 @@ var pizzaToppingPriceF = function () {
     }
     return pizzaToppingPrice;
 }
-
-$(".Order-checkout").on('click',"#btn-deliever_yes",function () {
+$("#order-checkout").on('click',"#btn-deliever_Sure",function () {
     $("#btn-deliever_yes").remove();
     $("#btn-deliever_no").remove();
     var delieveryPrice=150;
     totalPrice+=delieveryPrice;
     $("#delievery-prompt").remove();
-    $(".Order-checkout").append("<p><strong>Total Amount Payable: "+totalPrice+"</strong></p>")
-    $(".Order-checkout").append("<button type='button' class='btn btn-dark btn-deliever' id='btn-pay1'>Pay</button>")
+    $("#order-checkout").append("<p><strong>Total Amount Payable: "+totalPrice+"</strong></p>")
+    $("#order-checkout").append("<button type='button' class='btn btn-dark btn-deliever' id='btn-pay1'>Pay</button>")
     prompt("Enter Your Location (within Nairobi)")
     alert("Your Order Will Be Delievered Upon Payment")
     
 })
-$("#Order-checkout").on('click',"#btn-deliever_no",function () {
+$("#order-checkout").on('click',"#btn-deliever_no",function () {
     $("#btn-deliever_yes").remove();
     $("#btn-deliever_no").remove();
     $("#delievery-prompt").remove();
-    $(".Order-checkout").append("<p><strong>Total Amount Payable: "+totalPrice+"</strong></p>")
-    $(".Order-checkout").append("<button type='button' class='btn btn-dark btn-deliever' id='btn-pay2'>Pay</button>")
+    $("#order-checkout").append("<p><strong>Total Amount Payable: "+totalPrice+"</strong></p>")
+    $("#order-checkout").append("<button type='button' class='btn btn-dark btn-deliever' id='btn-pay2'>Pay</button>")
 })
 $(document).ready(function() {
     $("button#submit").click(function(event) {
